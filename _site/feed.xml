@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-21T15:43:31+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Frontend Notes</title><subtitle>Notes and links about Frontend Development</subtitle><entry><title type="html">CSS Generators</title><link href="http://localhost:4000/tools/css/2018/09/21/css-generators.html" rel="alternate" type="text/html" title="CSS Generators" /><published>2018-09-21T10:26:24+02:00</published><updated>2018-09-21T10:26:24+02:00</updated><id>http://localhost:4000/tools/css/2018/09/21/css-generators</id><content type="html" xml:base="http://localhost:4000/tools/css/2018/09/21/css-generators.html">&lt;p&gt;&lt;a href=&quot;https://developer.mozilla.org/de/docs/Web/CSS/CSS_Background_and_Borders/Border-image_generator&quot;&gt;Mozillas Border Image Genrator&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://html5-demos.appspot.com/static/css/filters/index.html&quot;&gt;CSS Filters&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cssarrowplease.com/&quot;&gt;CSS Arrow Please&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://css-tricks.com/examples/ShapesOfCSS/&quot;&gt;CSS Shapes&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Mozillas Border Image Genrator</summary></entry><entry><title type="html">Image Compression</title><link href="http://localhost:4000/tools/css/2018/09/20/image-compression.html" rel="alternate" type="text/html" title="Image Compression" /><published>2018-09-20T16:26:24+02:00</published><updated>2018-09-20T16:26:24+02:00</updated><id>http://localhost:4000/tools/css/2018/09/20/image-compression</id><content type="html" xml:base="http://localhost:4000/tools/css/2018/09/20/image-compression.html">&lt;p&gt;There are various tools for image optimization that you can integrate into your workflow.&lt;/p&gt;
+
+&lt;p&gt;One of my favorites is &lt;a href=&quot;https://tinypng.com&quot;&gt;TinyPNG&lt;/a&gt;, which can also minimize JPG files.
+The savings are quite high and usually there is barely a visible difference between the original and the compressed file.&lt;/p&gt;
+
+&lt;p&gt;You can use TinyPNG via direct upload on the website, but there are also Photoshop, Wordpress and Grunt Plugins.&lt;/p&gt;
+
+&lt;p&gt;Other pages:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.jpegmini.com/main/shrink_photo&quot;&gt;JPGmini&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kraken.io&quot;&gt;Kraken.io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://compressor.io&quot;&gt;Compressor.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">There are various tools for image optimization that you can integrate into your workflow.</summary></entry><entry><title type="html">CSS Learning Games</title><link href="http://localhost:4000/css,/tools/2018/09/20/css-learning-games.html" rel="alternate" type="text/html" title="CSS Learning Games" /><published>2018-09-20T11:26:24+02:00</published><updated>2018-09-20T11:26:24+02:00</updated><id>http://localhost:4000/css,/tools/2018/09/20/css-learning-games</id><content type="html" xml:base="http://localhost:4000/css,/tools/2018/09/20/css-learning-games.html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cssgridgarden.com/&quot;&gt;CSS Grid Garden&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://flexboxfroggy.com/&quot;&gt;Flexbox Froggy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.flexboxdefense.com/&quot;&gt;Flexbox Defense&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">CSS Grid Garden Flexbox Froggy Flexbox Defense</summary></entry></feed>
