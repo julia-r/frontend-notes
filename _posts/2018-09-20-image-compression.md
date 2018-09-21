@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Image Compression"
-date:   2018-09-20 16:26:24 +0200
-categories: [tools, css]
+date:   2018-09-20
+categories: tools css
 ---
 
 There are various tools for image optimization that you can integrate into your workflow.

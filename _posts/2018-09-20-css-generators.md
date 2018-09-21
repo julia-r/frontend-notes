@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "CSS Generators"
-date:   2018-09-21 10:26:24 +0200
-categories: [tools, css]
+date:   2018-09-21
+categories: tools css
 ---
 
 [Mozillas Border Image Genrator][Mozillas Border Image Genrator]
